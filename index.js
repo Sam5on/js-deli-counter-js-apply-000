@@ -6,3 +6,6 @@ var katzDeliLine = [];
   
   return message
  }
+ 
+ function nowServing(katzDeliLine){
+}
